@@ -1,0 +1,461 @@
+text,label,length_chars,length_words,punctuation_ratio,repetition_score
+"Exercise plays a crucial role in supporting mental health by reducing symptoms of anxiety, depression, and stress while boosting overall emotional well-being. Physical activity stimulates the release of endorphins and other brain chemicals that enhance mood and promote feelings of relaxation and happiness. Regular exercise also helps improve sleep, sharpen memory, and increase self-confidence, creating a positive cycle that benefits both the body and mind. Beyond the biological effects, engaging in exercise can provide a sense of accomplishment, structure to the day, and opportunities for social interaction, all of which are important for maintaining a healthy mental state.",1,682,98,0.021994134897360705,0.22448979591836737
+"Renewable energy helps fight climate change by reducing the amount of greenhouse gases released into the atmosphere. Unlike fossil fuels, sources like solar, wind, and hydroelectric power generate electricity without producing carbon dioxide or other harmful emissions. By replacing coal, oil, and natural gas with clean energy, we can significantly lower the buildup of heat-trapping gases that contribute to global warming. Additionally, renewable energy is sustainable and abundant, making it a key solution for meeting growing energy demands without further damaging the environment. Transitioning to renewable sources not only helps protect the planet but also supports healthier ecosystems and communities for future generations.",1,735,103,0.01904761904761905,0.18446601941747576
+"A futuristic smart city is a vibrant, interconnected environment where technology seamlessly enhances every aspect of daily life. Streets are lined with self-driving electric vehicles that communicate with intelligent traffic systems to eliminate congestion and reduce pollution. Buildings are powered by renewable energy, equipped with adaptive materials that regulate temperature and optimize energy use. Residents interact with the city through augmented reality interfaces, accessing real-time information about transportation, events, and services with a simple gesture or voice command. Public spaces are green and self-sustaining, using smart irrigation and vertical gardens to promote biodiversity. In this city, data-driven solutions ensure safety, efficiency, and a high quality of life, creating a sustainable and inclusive community for all.",1,853,115,0.023446658851113716,0.18260869565217386
+"Healthy eating habits are especially important for teenagers, as their bodies and minds are still growing and developing. A balanced diet that includes plenty of fruits, vegetables, whole grains, lean proteins, and healthy fats provides the essential nutrients needed for energy, focus, and overall health. Teens should aim to eat regular meals and snacks to maintain stable blood sugar levels and avoid skipping meals, which can lead to overeating later. Staying hydrated with water instead of sugary drinks is also key. Learning to listen to hunger cues, practicing portion control, and limiting processed foods high in sugar, salt, and unhealthy fats can help establish positive habits that last into adulthood. Healthy eating not only supports physical health but also boosts mood, academic performance, and self-confidence.",1,828,125,0.025362318840579712,0.18400000000000005
+"Machine learning is transforming healthcare by enabling faster, more accurate diagnoses, personalized treatments, and improved patient outcomes. By analyzing large volumes of medical data, machine learning algorithms can detect patterns that may be missed by human eyes, helping doctors identify diseases such as cancer, diabetes, and heart conditions at earlier stages. It also supports the development of personalized medicine, where treatments are tailored to an individuals' genetic makeup and health history. In addition, machine learning improves hospital operations by predicting patient admissions, optimizing resource allocation, and reducing costs. As technology continues to advance, machine learning holds the promise of making healthcare more efficient, precise, and accessible to people around the world.",1,818,111,0.02444987775061125,0.21621621621621623
+"Blockchain technology is a decentralized digital system that securely records and verifies transactions across a network of computers. Instead of relying on a single central authority, blockchain distributes information across many participants, making it transparent, tamper-resistant, and highly secure. Each transaction is grouped into a ""block,"" linked to previous blocks in a chronological ""chain,"" and protected using cryptographic techniques. This structure ensures that once data is added, it cannot be altered without consensus from the network. Originally developed to support cryptocurrencies like Bitcoin, blockchain technology is now being applied in many fields, including finance, supply chain management, and healthcare, to enhance trust, transparency, and efficiency.",1,784,105,0.030612244897959183,0.20952380952380956
+"Reinforcement learning is a type of artificial intelligence where an agent learns how to make decisions by interacting with an environment and receiving feedback through rewards or penalties. The agent’s goal is to maximize the total reward over time by trying different actions and learning from the outcomes. Unlike supervised learning, where the model learns from a fixed dataset, reinforcement learning involves trial and error, allowing the agent to adapt its behavior based on experience. This approach is inspired by the way humans and animals learn and has been successfully used in areas like robotics, game playing, and autonomous vehicles, where dynamic decision-making is crucial.",1,692,105,0.015895953757225433,0.2571428571428571
+"The rapid development of artificial intelligence (AI) has raised important ethical issues that society must address. Concerns include bias and discrimination in AI algorithms, which can reinforce social inequalities if not properly managed. Privacy is another major issue, as AI systems often collect and analyze vast amounts of personal data. There are also fears about job displacement, with automation threatening to replace human workers in many industries. Additionally, questions about accountability arise when AI systems make decisions that impact people's lives, such as in healthcare, finance, or criminal justice. Ensuring transparency, fairness, and responsible use of AI technologies is crucial to protecting human rights and maintaining public trust as AI becomes more integrated into everyday life.",1,813,116,0.02214022140221402,0.1637931034482759
+"Self-driving cars make decisions by combining data from sensors, cameras, radar, and lidar to understand their surroundings and navigate safely. These vehicles use advanced algorithms, including machine learning and deep learning models, to interpret the environment—identifying objects like pedestrians, other vehicles, road signs, and lane markings. Based on this real-time information, the car’s onboard system predicts the behavior of nearby objects and plans its next actions, such as when to change lanes, brake, or accelerate. The decision-making process balances multiple factors, including safety, efficiency, and traffic laws, allowing the car to respond quickly and appropriately to complex driving situations. Through continuous learning and updates, self-driving cars are becoming increasingly capable of handling diverse and unpredictable road conditions.",1,869,117,0.02991944764096663,0.20512820512820518
+"Using AI in education offers many benefits, such as personalized learning experiences, quicker feedback, and improved accessibility for students with diverse needs. AI can tailor lessons to match individual learning styles and paces, helping students master concepts more effectively. It also assists teachers by automating administrative tasks like grading and tracking progress, allowing more time for direct interaction with students. However, there are risks as well, including concerns about data privacy, algorithmic bias, and the potential for reduced human connection in the classroom. Overreliance on AI tools might also limit critical thinking skills if not carefully managed. Balancing innovation with thoughtful oversight is key to ensuring that AI enhances education without compromising its quality or equity.",1,823,116,0.018226002430133656,0.1637931034482759
+"A cozy winter evening at a cabin in the woods feels like stepping into a peaceful, storybook scene. Snow gently falls outside, blanketing the trees in soft white while the cabin glows warmly from within. Inside, a crackling fire in the stone fireplace fills the room with heat and the comforting scent of burning wood. Thick blankets and plush armchairs invite you to curl up with a good book or a steaming mug of hot chocolate. The only sounds are the occasional pop of the fire and the whisper of the wind against the windows. Surrounded by natures quiet beauty and the simple comforts of the cabin, the evening feels calm, timeless, and deeply restful.",1,655,115,0.0183206106870229,0.29565217391304344
+"The first human colony on Mars is a breathtaking testament to human ingenuity and resilience. Nestled inside a series of interconnected domes, the settlement bustles with life, protected from the harsh, dusty environment outside. Solar panels stretch across the red landscape, powering homes, laboratories, and greenhouses where fresh food grows under artificial lights. Scientists, engineers, and explorers work together to study the planet’s secrets, develop new technologies, and build a self-sustaining community. Communication towers link the colony to Earth, though messages take minutes to arrive. Every sunrise over the Martian horizon reminds the colonists that they are pioneers on a new world, forging a future for humanity among the stars.",1,751,110,0.02529960053262317,0.19999999999999996
+"After days of trekking through dense jungle and scaling rocky cliffs, the traveler stumbled upon the entrance to an ancient hidden city, long forgotten by time. Vines draped over towering stone gates carved with mysterious symbols, and crumbling temples peeked through the thick canopy. As the traveler stepped cautiously into the abandoned streets, the air felt heavy with history, every corner whispering stories of a civilization lost to the ages. Ornate statues and faded murals hinted at a once-thriving culture rich in art, science, and spirituality. The discovery filled the traveler with awe and excitement, knowing they had uncovered a place where the past still lived, waiting to reveal its secrets.",1,709,111,0.021156558533145273,0.2072072072072072
+"A world without the internet would feel slower, quieter, and more grounded, but also more disconnected in many ways. Information would spread through newspapers, books, and word of mouth, making learning and communication a more deliberate and time-consuming process. People would rely heavily on face-to-face interactions, handwritten letters, and landline phones to stay in touch, fostering deeper, more personal connections but limiting global reach. Entertainment would center around physical media like television, radio, and print, and shopping would mean visiting local stores instead of clicking a button. While life might feel simpler and less overwhelming, the absence of instant access to knowledge, services, and diverse communities would create a profound sense of isolation compared to the hyper-connected world we know today.",1,840,121,0.02976190476190476,0.2479338842975206
+"Tucked away behind towering skyscrapers and bustling streets, the secret garden feels like a hidden oasis in the heart of the busy city. Accessible only through a narrow, ivy-covered gate, the garden bursts into view with colorful flowers, winding stone paths, and the soft sound of trickling fountains. Ancient trees form a canopy overhead, muffling the distant noise of traffic and creating a peaceful, almost magical atmosphere. Birds flit among the branches, and butterflies dance above patches of wild herbs and blooming roses. For those lucky enough to find it, the secret garden offers a rare escape—a place where time seems to slow down and the chaos of the city fades into a distant memory.",1,699,115,0.02145922746781116,0.25217391304347825
+"Exercise offers a natural remedy for stress by promoting the release of endorphins, which act as mood elevators and stress reducers.",1,132,21,0.015151515151515152,0.04761904761904767
+Renewable energy sources like wind and solar power are vital for reducing greenhouse gas emissions and combating climate change.,1,128,19,0.0078125,0.052631578947368474
+"A futuristic smart city integrates green spaces, automated transportation, and AI-driven public services to enhance quality of life.",1,132,18,0.030303030303030304,0.0
+Healthy eating habits involve consuming a variety of nutrient-rich foods to maintain optimal physical and mental well-being.,1,124,17,0.024193548387096774,0.0
+"Machine learning models are capable of detecting anomalies in medical imaging, leading to earlier diagnoses and improved patient outcomes.",1,138,19,0.014492753623188406,0.0
+Blockchain technology provides a secure and transparent method for recording transactions without relying on centralized authorities.,1,133,16,0.007518796992481203,0.0
+Reinforcement learning allows AI systems to learn optimal actions through trial-and-error interactions with their environments.,1,127,15,0.023622047244094488,0.0
+"The rapid development of AI necessitates a thorough examination of ethical issues such as bias, transparency, and accountability.",1,129,18,0.023255813953488372,0.05555555555555558
+"Self-driving cars utilize LIDAR, radar, and advanced algorithms to perceive their surroundings and make real-time driving decisions.",1,132,17,0.03787878787878788,0.05882352941176472
+"Using AI in education can personalize learning pathways, adapting content and pacing to individual student needs.",1,113,16,0.017699115044247787,0.0
+"Regular exercise improves cardiovascular health, strengthens muscles, and boosts endurance, contributing to overall fitness.",1,124,14,0.03225806451612903,0.0
+"Solar panels convert sunlight into electricity, offering a sustainable alternative to fossil fuels for energy generation.",1,121,16,0.01652892561983471,0.0
+"Smart cities use data analytics to optimize traffic flow, reduce energy consumption, and improve residents' quality of life.",1,124,18,0.03225806451612903,0.0
+"A balanced diet includes fruits, vegetables, lean proteins, and whole grains to support bodily functions and prevent disease.",1,125,18,0.032,0.05555555555555558
+"Artificial intelligence enhances the accuracy of diagnostic tools, leading to faster and more reliable medical assessments.",1,123,16,0.016260162601626018,0.0
+Decentralized finance platforms use blockchain to provide financial services without traditional banks or intermediaries.,1,121,14,0.008264462809917356,0.0
+Deep reinforcement learning algorithms have been successful in mastering complex tasks like playing Go and controlling robots.,1,126,17,0.007936507936507936,0.0
+"Addressing ethical concerns in AI requires diverse datasets, transparent algorithms, and human oversight mechanisms.",1,116,14,0.02586206896551724,0.0
+Autonomous vehicles are programmed to interpret sensory data and make split-second decisions to ensure passenger safety.,1,120,16,0.016666666666666666,0.0625
+Adaptive learning technologies adjust educational content based on student performance to maximize learning outcomes.,1,117,14,0.008547008547008548,0.0714285714285714
+Cardiovascular exercises like running and cycling strengthen the heart and improve lung capacity.,1,97,13,0.010309278350515464,0.07692307692307687
+Wind energy harnesses the kinetic energy of moving air to generate electricity in an environmentally friendly manner.,1,117,17,0.008547008547008548,0.05882352941176472
+Smart grids intelligently manage electricity distribution to enhance efficiency and reduce blackouts.,1,101,12,0.009900990099009901,0.0
+"Nutritional guidelines recommend limiting saturated fats and added sugars while emphasizing fruits, vegetables, and whole grains.",1,129,16,0.023255813953488372,0.0625
+AI-driven tools assist radiologists in identifying tumors and other abnormalities with greater precision.,1,105,13,0.01904761904761905,0.0
+Supply chain management systems using blockchain technology can enhance transparency and traceability of goods.,1,111,14,0.009009009009009009,0.0
+Reinforcement learning agents are trained using rewards and penalties to encourage desired behaviors.,1,101,13,0.009900990099009901,0.0
+"Ethical AI frameworks emphasize fairness, accountability, and transparency in machine learning systems.",1,103,12,0.02912621359223301,0.0
+Sensor fusion in autonomous vehicles combines data from multiple sources to build a comprehensive view of the environment.,1,122,18,0.00819672131147541,0.0
+EdTech platforms leverage AI to create personalized study plans tailored to individual learning styles.,1,103,14,0.009708737864077669,0.0714285714285714
+"Strength training exercises build muscle mass, improve bone density, and support metabolic health.",1,98,13,0.030612244897959183,0.0
+Hydropower uses the flow of water to produce renewable electricity with minimal carbon emissions.,1,97,14,0.010309278350515464,0.0
+"Smart city initiatives aim to improve urban living conditions through technology, sustainability, and efficiency.",1,113,14,0.02654867256637168,0.0
+Dietary fiber intake is associated with better digestive health and lower risk of chronic diseases.,1,99,15,0.010101010101010102,0.0
+"Natural language processing enables machines to understand, interpret, and generate human language.",1,99,12,0.030303030303030304,0.0
+Blockchain-based voting systems offer enhanced security and transparency compared to traditional voting methods.,1,112,13,0.017857142857142856,0.07692307692307687
+Policy gradient methods in reinforcement learning optimize policies by directly estimating gradients.,1,101,12,0.009900990099009901,0.0
+"AI bias can emerge when training data reflects historical inequalities, necessitating careful dataset curation.",1,111,14,0.018018018018018018,0.0
+Advanced driver-assistance systems (ADAS) provide features like lane-keeping assistance and adaptive cruise control.,1,116,13,0.04310344827586207,0.0
+Intelligent tutoring systems dynamically adjust questions and explanations based on student responses.,1,102,12,0.00980392156862745,0.0
+Moderate-intensity aerobic activities like brisk walking are beneficial for maintaining heart health.,1,101,12,0.019801980198019802,0.0
+Geothermal energy utilizes heat from the Earth's core as a sustainable power source.,1,84,13,0.023809523809523808,0.0
+"Urban planning in smart cities focuses on walkability, energy efficiency, and digital infrastructure.",1,101,13,0.0297029702970297,0.0
+A well-balanced diet is essential for maintaining healthy body weight and preventing metabolic disorders.,1,105,14,0.01904761904761905,0.0
+Computer vision techniques allow machines to interpret visual information from images and videos.,1,97,13,0.010309278350515464,0.0
+Blockchain networks achieve consensus through mechanisms like Proof of Work or Proof of Stake.,1,94,14,0.010638297872340425,0.1428571428571429
+Inverse reinforcement learning seeks to infer the reward function given observed behavior.,1,90,12,0.011111111111111112,0.0
+Ensuring fairness in AI systems requires rigorous evaluation across demographic groups.,1,87,11,0.011494252873563218,0.0
+Path planning algorithms enable self-driving cars to navigate efficiently and avoid obstacles.,1,94,12,0.02127659574468085,0.0
+Learning analytics platforms provide educators with actionable insights based on student data.,1,94,12,0.010638297872340425,0.0
+Aerobic exercises increase the efficiency of the cardiovascular system and enhance oxygen transport throughout the body.,1,120,16,0.008333333333333333,0.125
+"Solar farms capture sunlight over large areas to generate clean, renewable electricity for residential and industrial use.",1,122,17,0.01639344262295082,0.0
+Internet of Things (IoT) devices in smart cities collect real-time data to optimize resource usage and service delivery.,1,120,18,0.03333333333333333,0.0
+Consuming a variety of colorful fruits and vegetables ensures a broad spectrum of essential vitamins and minerals.,1,114,17,0.008771929824561403,0.17647058823529416
+Artificial neural networks mimic the structure of biological brains to perform pattern recognition and decision-making tasks.,1,125,16,0.016,0.0
+Public blockchains like Bitcoin allow anyone to participate in transaction validation and ledger maintenance.,1,109,14,0.009174311926605505,0.0
+Model-free reinforcement learning algorithms learn directly from experience without building an internal model of the environment.,1,130,16,0.015384615384615385,0.0
+Mitigating bias in AI systems involves using diverse training data and implementing fairness-aware algorithms.,1,110,14,0.01818181818181818,0.0
+"Computer vision systems detect lane markings, pedestrians, and traffic signs to aid autonomous navigation.",1,106,14,0.02830188679245283,0.0
+AI-powered adaptive learning platforms can automatically recommend resources that target students' specific knowledge gaps.,1,123,14,0.024390243902439025,0.0
+"Strength training stimulates muscle hypertrophy, enhances bone density, and boosts metabolic rates.",1,99,12,0.030303030303030304,0.0
+"Offshore wind farms take advantage of stronger, more consistent winds over the ocean to generate electricity.",1,109,16,0.01834862385321101,0.0
+"Urban mobility solutions include autonomous shuttle services, shared electric scooters, and intelligent traffic management.",1,123,14,0.024390243902439025,0.0
+"Maintaining adequate hydration levels supports cognitive function, physical endurance, and thermoregulation.",1,108,11,0.027777777777777776,0.0
+Speech recognition systems convert spoken language into text using deep learning models trained on vast datasets.,1,113,16,0.008849557522123894,0.0
+"Permissioned blockchains restrict access to participants with verified identities, improving security and privacy.",1,114,13,0.017543859649122806,0.0
+Multi-agent reinforcement learning involves training multiple agents that interact with one another within an environment.,1,122,15,0.01639344262295082,0.0
+Transparency reports from AI developers can help increase public trust by disclosing model capabilities and limitations.,1,120,16,0.008333333333333333,0.0
+Sensor fusion techniques allow autonomous vehicles to create robust environmental models by integrating multi-modal data.,1,121,15,0.01652892561983471,0.0
+Learning management systems (LMS) use analytics to identify at-risk students and suggest personalized interventions.,1,116,14,0.034482758620689655,0.0
+"Yoga improves flexibility, balance, and mental clarity while promoting relaxation and stress reduction.",1,103,13,0.02912621359223301,0.07692307692307687
+Bioenergy involves converting organic materials such as plant matter and waste into usable energy.,1,98,14,0.01020408163265306,0.0
+Smart water management systems in cities help detect leaks and optimize water distribution networks.,1,100,14,0.01,0.0714285714285714
+"Micronutrients like iron, zinc, and vitamin C are critical for maintaining immune function and overall health.",1,110,16,0.02727272727272727,0.0625
+"Generative Adversarial Networks (GANs) are used to synthesize realistic images, audio, and even video content.",1,110,15,0.045454545454545456,0.0
+Private blockchains offer enhanced control and privacy for enterprise applications compared to public blockchain systems.,1,121,15,0.008264462809917356,0.0
+Hierarchical reinforcement learning decomposes tasks into subtasks to facilitate more efficient learning.,1,105,12,0.009523809523809525,0.0
+"Ethical auditing of AI systems assesses potential harms, biases, and risks associated with automated decision-making.",1,117,15,0.03418803418803419,0.0
+Localization systems in autonomous cars estimate vehicle position based on sensor data and map information.,1,107,15,0.009345794392523364,0.0
+Virtual reality (VR) platforms powered by AI can create highly immersive educational simulations.,1,97,13,0.030927835051546393,0.0
+Interval training alternates periods of high-intensity exercise with recovery periods to improve cardiovascular fitness.,1,120,14,0.016666666666666666,0.0714285714285714
+Biomass energy involves burning organic materials to generate electricity while recycling carbon dioxide.,1,105,13,0.009523809523809525,0.0
+Intelligent transportation systems aim to reduce traffic congestion through dynamic routing and signal optimization.,1,116,14,0.008620689655172414,0.0
+Adequate intake of dietary fiber supports gut health and lowers the risk of chronic diseases.,1,93,15,0.010752688172043012,0.06666666666666665
+Transformer models revolutionized natural language processing by enabling parallel processing of input sequences.,1,113,13,0.008849557522123894,0.07692307692307687
+Blockchain technology can secure supply chains by tracking the provenance of goods from origin to sale.,1,103,16,0.009708737864077669,0.0
+Policy regularization techniques in reinforcement learning help prevent overfitting to specific tasks.,1,102,12,0.00980392156862745,0.0
+"Impact assessments evaluate the social, economic, and ethical consequences of AI system deployment.",1,99,13,0.030303030303030304,0.0
+LiDAR sensors provide precise three-dimensional measurements of environments for autonomous navigation.,1,103,11,0.019417475728155338,0.0
+Chatbots integrated into educational apps offer real-time assistance and tutoring for students.,1,95,12,0.021052631578947368,0.0
+"Pilates strengthens the core muscles, improves posture, and enhances overall body alignment.",1,92,12,0.03260869565217391,0.0
+Wave energy converters harness the kinetic energy of ocean waves to produce electricity.,1,88,13,0.011363636363636364,0.07692307692307687
+Urban data platforms aggregate information from multiple sources to support city planning and management.,1,105,14,0.009523809523809525,0.0
+"Micronutrient deficiencies can impair cognitive development, immune responses, and physical growth.",1,99,11,0.030303030303030304,0.0
+Self-supervised learning algorithms can learn useful representations without needing extensive labeled data.,1,108,12,0.018518518518518517,0.0
+Cross-border blockchain networks facilitate secure international transactions without intermediaries.,1,101,9,0.019801980198019802,0.0
+Value iteration and policy iteration are classical methods for solving Markov Decision Processes in reinforcement learning.,1,123,16,0.008130081300813009,0.0625
+Regulatory sandboxes allow innovators to test AI products in controlled environments with reduced compliance burdens.,1,117,15,0.008547008547008548,0.0
+"Predictive maintenance systems use AI to anticipate equipment failures before they occur, reducing downtime.",1,108,14,0.018518518518518517,0.0
+"Calisthenics utilizes bodyweight exercises to build muscular strength, endurance, and flexibility.",1,98,11,0.030612244897959183,0.0
+"Solar thermal plants concentrate sunlight to produce steam, which drives turbines to generate electricity.",1,106,14,0.018867924528301886,0.0714285714285714
+Smart agriculture leverages IoT sensors and AI analytics to optimize crop yields and reduce resource usage.,1,107,16,0.009345794392523364,0.0625
+Probiotics are live microorganisms that provide health benefits by maintaining gut microbiome balance.,1,102,13,0.00980392156862745,0.0
+"Graph neural networks are designed to process data structured as graphs, such as social networks and molecules.",1,111,17,0.018018018018018018,0.11764705882352944
+Consensus algorithms like Raft and PBFT are critical for achieving agreement in distributed blockchain networks.,1,112,15,0.008928571428571428,0.0
+Deep Q-networks combine reinforcement learning with deep learning to enable agents to make complex decisions.,1,109,15,0.01834862385321101,0.19999999999999996
+Establishing ethical guidelines for AI development ensures technology serves humanity in responsible ways.,1,106,13,0.009433962264150943,0.0
+"Object detection models help autonomous vehicles recognize and classify pedestrians, cyclists, and vehicles.",1,108,13,0.027777777777777776,0.07692307692307687
+"Virtual learning environments create engaging, interactive spaces for students to collaborate remotely.",1,103,12,0.019417475728155338,0.0
+Resistance band workouts enhance strength training by providing constant tension across the range of motion.,1,108,15,0.009259259259259259,0.0
+Tidal energy harnesses the gravitational forces between the Earth and Moon to generate renewable power.,1,103,15,0.009708737864077669,0.06666666666666665
+Urban resilience strategies prepare cities to withstand and recover from climate-related disasters.,1,99,12,0.020202020202020204,0.0
+Vitamins and minerals act as cofactors in enzymatic reactions essential for metabolism and cellular function.,1,109,15,0.009174311926605505,0.06666666666666665
+Few-shot learning enables AI models to generalize from very small amounts of training data.,1,91,14,0.02197802197802198,0.0
+Blockchain-based identity management systems enhance security and user privacy online.,1,86,10,0.023255813953488372,0.0
+"Meta-learning, or learning to learn, improves an AI model's ability to adapt quickly to new tasks.",1,98,16,0.05102040816326531,0.125
+Bias impact assessments evaluate whether AI systems inadvertently discriminate against protected groups.,1,104,12,0.009615384615384616,0.0
+Motion planning algorithms allow autonomous robots to chart paths through dynamic environments.,1,95,12,0.010526315789473684,0.0
+Educational recommender systems use AI to suggest personalized learning resources and pathways.,1,95,12,0.010526315789473684,0.0
+Functional fitness routines focus on strengthening movements that mimic real-world activities.,1,94,11,0.02127659574468085,0.0
+Algae biofuels provide a sustainable alternative to petroleum-based fuels with lower carbon emissions.,1,102,13,0.0196078431372549,0.0
+Smart parking systems use real-time data to guide drivers to available parking spots efficiently.,1,97,14,0.020618556701030927,0.1428571428571429
+"Omega-3 fatty acids, found in fish and flaxseeds, support heart health and cognitive function.",1,94,14,0.0425531914893617,0.0714285714285714
+Self-attention mechanisms allow transformer models to weigh the importance of different input tokens.,1,101,13,0.019801980198019802,0.0
+Zero-knowledge proofs enable one party to prove knowledge of information without revealing it.,1,94,13,0.02127659574468085,0.0
+Model-based reinforcement learning builds a model of the environment to plan and make decisions.,1,96,14,0.020833333333333332,0.0
+Independent audits of AI systems promote transparency and accountability in automated processes.,1,96,12,0.010416666666666666,0.0
+Semantic segmentation algorithms partition images into meaningful segments for object recognition.,1,98,11,0.01020408163265306,0.0
+Automated essay scoring systems use natural language processing techniques to evaluate writing quality.,1,103,13,0.009708737864077669,0.0
+"Functional strength training prepares the body for daily movements like lifting, bending, and reaching.",1,103,14,0.02912621359223301,0.0
+Hydrogen fuel cells produce electricity through electrochemical reactions with water as the byproduct.,1,102,13,0.00980392156862745,0.0
+Urban farming initiatives integrate agriculture into city landscapes to enhance local food production.,1,102,13,0.00980392156862745,0.0
+"Zinc is essential for enzymatic reactions, immune defense, and DNA synthesis in the human body.",1,95,15,0.031578947368421054,0.0
+Self-supervised vision transformers are revolutionizing computer vision by learning from unlabeled data.,1,104,12,0.019230769230769232,0.08333333333333337
+Decentralized autonomous organizations (DAOs) enable collective governance without centralized leadership.,1,106,10,0.02830188679245283,0.0
+Curriculum learning techniques train AI models by gradually increasing the complexity of tasks.,1,95,13,0.010526315789473684,0.0
+Impact evaluations assess the societal benefits and risks associated with AI system deployment.,1,95,13,0.010526315789473684,0.0
+Trajectory prediction algorithms anticipate the future positions of objects for collision avoidance.,1,100,12,0.01,0.0
+Natural language understanding systems enable AI to comprehend the meaning behind human language.,1,97,13,0.010309278350515464,0.0
+Bodyweight training promotes muscular endurance and stability without the need for equipment.,1,93,12,0.010752688172043012,0.0
+Concentrated solar power systems use mirrors to focus sunlight and drive traditional steam turbines.,1,100,14,0.01,0.0
+Smart grid analytics predict energy demand patterns to optimize electricity distribution.,1,89,11,0.011235955056179775,0.0
+Potassium-rich foods like bananas and sweet potatoes help maintain fluid balance and nerve function.,1,100,14,0.02,0.0714285714285714
+Contrastive learning improves the quality of learned representations by comparing similar and dissimilar pairs.,1,111,14,0.009009009009009009,0.0
+Decentralized file storage systems distribute data across peer-to-peer networks for security and redundancy.,1,108,13,0.027777777777777776,0.0
+"Hierarchical reinforcement learning structures complex tasks into smaller, more manageable subtasks.",1,100,11,0.02,0.0
+Safety certifications for AI systems ensure that autonomous technologies meet regulatory standards.,1,99,12,0.010101010101010102,0.0
+Visual odometry techniques estimate camera motion by analyzing sequential images.,1,81,10,0.012345679012345678,0.0
+Functional training incorporates exercises that replicate everyday movements to enhance real-world strength and stability.,1,122,14,0.01639344262295082,0.0
+Wave energy devices capture mechanical energy from ocean waves and convert it into usable electricity.,1,102,15,0.00980392156862745,0.06666666666666665
+"Urban mobility apps integrate public transportation schedules, bike-sharing programs, and ride-hailing services for streamlined travel.",1,135,15,0.037037037037037035,0.0
+Iron is a vital mineral that supports oxygen transport in the blood and energy metabolism.,1,90,15,0.011111111111111112,0.0
+Self-supervised learning models learn useful features from unlabeled data by predicting parts of the input itself.,1,114,16,0.017543859649122806,0.0
+Sharding divides blockchain networks into smaller partitions to improve scalability and transaction throughput.,1,111,13,0.009009009009009009,0.0
+"Multi-task learning enables AI models to learn multiple objectives simultaneously, improving generalization.",1,108,12,0.027777777777777776,0.0
+Independent ethics boards review AI research projects to ensure compliance with ethical guidelines and human rights principles.,1,127,17,0.007874015748031496,0.0
+3D object detection enables autonomous vehicles to recognize and localize surrounding objects in three-dimensional space.,1,121,15,0.01652892561983471,0.0
+Predictive analytics uses historical data and machine learning to forecast future trends and behaviors.,1,103,14,0.009708737864077669,0.0714285714285714
+"Flexibility training improves joint range of motion, reduces injury risk, and enhances physical performance.",1,108,14,0.027777777777777776,0.0
+Ocean thermal energy conversion systems generate power by exploiting temperature differences between surface and deep ocean water.,1,130,17,0.007692307692307693,0.05882352941176472
+"Integrated urban planning combines land use, transportation, and environmental policies to build more sustainable cities.",1,121,15,0.024793388429752067,0.0
+Vitamin D synthesis is stimulated by sunlight exposure and is crucial for bone health and immune function.,1,106,17,0.009433962264150943,0.11764705882352944
+Masked language modeling trains transformer-based AI models to predict missing words in a sentence.,1,99,14,0.020202020202020204,0.0
+Decentralized exchanges allow users to trade cryptocurrencies directly without relying on centralized intermediaries.,1,117,13,0.008547008547008548,0.0
+Evolutionary strategies in reinforcement learning use optimization algorithms inspired by biological evolution.,1,111,12,0.009009009009009009,0.0
+Impact transparency initiatives disclose the potential effects of AI deployments on marginalized communities.,1,109,13,0.009174311926605505,0.0
+Dynamic path planning enables autonomous robots to adapt routes in response to moving obstacles and changes in the environment.,1,127,19,0.007874015748031496,0.10526315789473684
+"Conversational AI systems aim to engage users through natural, context-aware dialogue across multiple platforms.",1,112,14,0.026785714285714284,0.0
+Energy-efficient buildings incorporate smart sensors and AI optimization to reduce electricity and heating costs.,1,113,14,0.017699115044247787,0.0714285714285714
+Smart wearable devices monitor biometric signals in real time and provide actionable health insights.,1,101,14,0.009900990099009901,0.0
+"Edge computing brings data processing closer to the source, reducing latency for applications like autonomous vehicles.",1,119,16,0.01680672268907563,0.0
+"Regular strength training enhances bone density, reduces injury risk, and boosts metabolism as we age.",1,102,15,0.029411764705882353,0.0
+Floating solar farms installed on reservoirs maximize space utilization and reduce evaporation loss.,1,100,13,0.01,0.0
+AI-based credit scoring models analyze alternative financial data to assess loan eligibility.,1,93,12,0.021505376344086023,0.0
+Neuromorphic computing architectures mimic the human brains structure for energy-efficient AI processing.,1,105,12,0.01904761904761905,0.0
+Public transportation networks use predictive modeling to anticipate demand and optimize schedules.,1,99,12,0.010101010101010102,0.0
+"Cloud robotics combines AI and cloud computing to enable low-cost, scalable robot intelligence.",1,95,13,0.031578947368421054,0.07692307692307687
+Regular mindfulness meditation practices help regulate emotional responses and improve mental clarity.,1,102,12,0.00980392156862745,0.0
+Autonomous delivery drones use GPS navigation and computer vision to deliver packages efficiently.,1,98,13,0.01020408163265306,0.0
+Machine learning techniques optimize crop irrigation systems to conserve water while maximizing yields.,1,103,13,0.009708737864077669,0.0
+AI-generated art tools empower creators to rapidly prototype designs and explore new creative ideas.,1,100,14,0.02,0.0
+Predictive maintenance algorithms monitor industrial machinery to predict and prevent equipment failures.,1,105,12,0.009523809523809525,0.0
+"Generative AI models can produce photorealistic images, synthetic voices, and even short video clips.",1,101,14,0.0297029702970297,0.0
+Smart waste management systems use AI and IoT sensors to optimize garbage collection routes and reduce emissions.,1,113,17,0.008849557522123894,0.05882352941176472
+AI-driven language learning apps personalize lessons based on user progress and improve engagement with real-time feedback.,1,123,16,0.024390243902439025,0.0
+"After a long hike through the forest, we finally reached the mountain peak just before sunset.",0,94,16,0.02127659574468085,0.0625
+I spent my Sunday afternoon curled up with a mystery novel and a cup of tea.,0,76,16,0.013157894736842105,0.0625
+My grandmothers' homemade lasagna always reminds me of family gatherings when I was a kid.,0,90,15,0.022222222222222223,0.0
+The sound of rain tapping against the windows made for a cozy atmosphere.,0,73,13,0.0136986301369863,0.07692307692307687
+"Last summer, I volunteered at an animal shelter and helped walk the dogs every morning.",0,87,15,0.022988505747126436,0.0
+"My best friend surprised me with concert tickets for my birthday, and it was unforgettable.",0,91,15,0.02197802197802198,0.06666666666666665
+I love waking up early on weekends to watch the sunrise from my porch.,0,70,14,0.014285714285714285,0.0
+The farmers market downtown is always bustling with fresh produce and handmade crafts.,0,86,13,0.011627906976744186,0.0
+Nothing beats the feeling of jumping into a cool lake on a hot summer day.,0,74,15,0.013513513513513514,0.06666666666666665
+I learned to ride a bike without training wheels when I was six years old.,0,74,15,0.013513513513513514,0.06666666666666665
+Visiting national parks has become a tradition for our family every spring.,0,75,12,0.013333333333333334,0.0
+"During college, I worked part-time at a local bakery frosting cupcakes.",0,71,11,0.04225352112676056,0.0
+Building model airplanes with my father taught me patience and attention to detail.,0,83,13,0.012048192771084338,0.0
+"Every year, we decorate gingerbread houses as part of our holiday celebration.",0,78,12,0.02564102564102564,0.0
+Growing my own vegetables in the backyard has been incredibly rewarding.,0,72,11,0.013888888888888888,0.0
+My first job was scooping ice cream at a busy boardwalk stand.,0,62,12,0.016129032258064516,0.0
+Camping under the stars was one of the most memorable experiences of my childhood.,0,82,14,0.012195121951219513,0.1428571428571429
+I used to spend hours sketching animals from library books when I was younger.,0,78,14,0.01282051282051282,0.0714285714285714
+My favorite way to relax is walking barefoot along the beach at dusk.,0,69,13,0.014492753623188406,0.0
+I'll never forget the excitement of getting my first acceptance letter to college.,0,82,13,0.024390243902439025,0.0
+The smell of fresh-baked bread always reminds me of my grandmother's kitchen.,0,77,12,0.03896103896103896,0.08333333333333337
+I once took a pottery class just for fun and ended up loving it.,0,64,14,0.015625,0.0
+Our family dog used to greet me at the door with his tail wagging like crazy.,0,77,16,0.012987012987012988,0.0
+I grew sunflowers in my backyard and they ended up taller than me!,0,66,13,0.015151515151515152,0.0
+"The first time I tried skiing, I spent more time falling than actually skiing.",0,78,14,0.02564102564102564,0.1428571428571429
+Spending weekends at the lake house helped me appreciate the little things.,0,75,12,0.013333333333333334,0.08333333333333337
+My brother taught me how to change a flat tire during a road trip mishap.,0,73,15,0.0136986301369863,0.06666666666666665
+I finally ran my first 5K race after months of training and sore muscles.,0,73,14,0.0136986301369863,0.0
+My favorite place in town is the tiny bookstore hidden in the alley.,0,68,13,0.014705882352941176,0.15384615384615385
+"After years of practice, I can finally play my favorite song on the guitar.",0,75,14,0.02666666666666667,0.0
+"Every autumn, we visit a local farm to pick apples and drink cider.",0,67,13,0.029850746268656716,0.0
+"I accidentally burned my first homemade pie, but it still tasted amazing.",0,73,12,0.0273972602739726,0.0
+Learning how to fish with my uncle taught me patience and persistence.,0,70,12,0.014285714285714285,0.0
+"My friends and I once tried building a treehouse, but it quickly collapsed.",0,75,13,0.02666666666666667,0.0
+I remember catching fireflies in jars during warm summer nights.,0,64,10,0.015625,0.0
+The first time I traveled abroad was both exciting and terrifying.,0,66,11,0.015151515151515152,0.0
+"One rainy afternoon, I got lost exploring an art museum for hours.",0,66,12,0.030303030303030304,0.0
+My favorite memory of childhood is building blanket forts in the living room.,0,77,13,0.012987012987012988,0.0
+Nothing compares to the smell of fresh pine trees during a winter hike.,0,71,13,0.014084507042253521,0.0
+"I learned to bake my own bread during quarantine, and now I can't stop.",0,71,14,0.04225352112676056,0.0714285714285714
+My dog once stole a whole pizza off the kitchen table when no one was looking.,0,78,16,0.01282051282051282,0.0
+I watched shooting stars from a hilltop with my best friends one summer night.,0,78,14,0.01282051282051282,0.0
+The neighborhood block party had the best homemade lemonade stands.,0,67,10,0.014925373134328358,0.09999999999999998
+I tried surfing for the first time last year and instantly wiped out.,0,69,13,0.014492753623188406,0.0
+Planting a garden taught me to appreciate how much work goes into growing food.,0,79,14,0.012658227848101266,0.0
+Taking care of my neighbors' cat made me realize how much I love animals.,0,73,14,0.0273972602739726,0.0
+I once participated in a sandcastle-building contest at the beach.,0,66,10,0.030303030303030304,0.0
+My mom used to make the best homemade mac and cheese on rainy days.,0,67,14,0.014925373134328358,0.0
+I learned how to knit during a snowy winter when we were stuck indoors.,0,71,14,0.014084507042253521,0.0
+Spending a weekend at a cabin without internet was refreshing and peaceful.,0,75,12,0.013333333333333334,0.08333333333333337
+I visited an aquarium for the first time and was amazed by the jellyfish exhibit.,0,81,15,0.012345679012345678,0.06666666666666665
+Volunteering at the food pantry opened my eyes to how much people can help each other.,0,86,16,0.011627906976744186,0.0
+My first camping trip was full of mosquito bites and stories around the campfire.,0,81,14,0.012345679012345678,0.0
+I made lifelong friends through a summer soccer league in my hometown.,0,70,12,0.014285714285714285,0.0
+"Growing up, my favorite toy was a giant box of crayons.",0,55,11,0.03636363636363636,0.0
+The small coffee shop on the corner makes the best cinnamon rolls I've ever tasted.,0,83,15,0.024096385542168676,0.1333333333333333
+I spent an entire afternoon flying a kite in an open field last fall.,0,69,14,0.014492753623188406,0.0714285714285714
+I once accidentally dyed all my clothes pink by washing a red sock with whites.,0,79,15,0.012658227848101266,0.0
+My dad taught me how to grill burgers on our old backyard barbecue.,0,67,13,0.014925373134328358,0.0
+Walking through a sunflower maze was both fun and a little disorienting.,0,72,12,0.013888888888888888,0.08333333333333337
+Learning to drive stick shift took way longer than I expected.,0,62,11,0.016129032258064516,0.0
+I discovered my love of photography during a family road trip across the country.,0,81,14,0.012345679012345678,0.0
+Adopting my first cat turned out to be one of the best decisions I ever made.,0,77,16,0.012987012987012988,0.0
+I spent an entire summer learning how to skateboard with my friends.,0,68,12,0.014705882352941176,0.0
+Building gingerbread houses became a fierce family competition every December.,0,78,10,0.01282051282051282,0.0
+The day I got my driver's license felt like pure freedom.,0,57,11,0.03508771929824561,0.0
+"During a blackout, we played board games by candlelight.",0,56,9,0.03571428571428571,0.0
+My best friend and I once tried camping in the backyard — we lasted three hours.,0,80,16,0.0125,0.0
+"The first time I saw snow, I ran outside barefoot and immediately regretted it.",0,79,14,0.02531645569620253,0.0714285714285714
+My favorite breakfast is still pancakes with syrup and strawberries.,0,68,10,0.014705882352941176,0.0
+"I once hiked through a forest trail that was completely overgrown, but beautiful.",0,81,13,0.024691358024691357,0.0
+"During a field trip, I accidentally set off the fire alarm — unforgettable!",0,75,13,0.02666666666666667,0.0
+Saturday mornings were reserved for watching cartoons and eating cereal.,0,72,10,0.013888888888888888,0.0
+I found an abandoned bird's nest in our backyard one spring.,0,60,11,0.03333333333333333,0.0
+My first school play was nerve-wracking but so much fun.,0,56,10,0.03571428571428571,0.0
+Making snow angels in the backyard was my favorite winter activity as a kid.,0,76,14,0.013157894736842105,0.0
+I once spent an afternoon picking wildflowers with my cousins.,0,62,10,0.016129032258064516,0.0
+"One summer, I tried building a tree swing with my brother.",0,58,11,0.034482758620689655,0.0
+My friends and I turned an old wagon into a racing cart.,0,56,12,0.017857142857142856,0.0
+"The first time I made homemade pizza, I forgot to add cheese!",0,61,12,0.03278688524590164,0.08333333333333337
+Swimming in a mountain lake was both freezing and exhilarating.,0,63,10,0.015873015873015872,0.0
+Running barefoot through the grass felt like pure freedom as a kid.,0,67,12,0.014925373134328358,0.0
+Helping my grandfather plant tomatoes became our annual spring ritual.,0,70,10,0.014285714285714285,0.0
+The best birthday I ever had was a backyard picnic with homemade lemonade.,0,74,13,0.013513513513513514,0.0
+I loved climbing the big oak tree behind our house.,0,51,10,0.0196078431372549,0.0
+My cousins and I built a fort out of fallen branches one autumn afternoon.,0,74,14,0.013513513513513514,0.0
+Watching the fireworks on the Fourth of July was always magical.,0,64,11,0.015625,0.09090909090909094
+I spent hours reading comics under a giant oak tree every summer.,0,65,12,0.015384615384615385,0.0
+My friends and I once held a talent show for the whole neighborhood.,0,68,13,0.014705882352941176,0.0
+Collecting seashells on the beach was my favorite part of summer vacations.,0,75,12,0.013333333333333334,0.0
+Learning to ride a skateboard was harder than it looked.,0,56,10,0.017857142857142856,0.0
+I spent an entire weekend helping to build a treehouse for my neighbor's kids.,0,78,14,0.02564102564102564,0.0
+"One rainy afternoon, I baked cookies for the first time completely by myself.",0,77,13,0.025974025974025976,0.0
+Trying to learn the harmonica made me appreciate musicians even more.,0,69,11,0.014492753623188406,0.0
+My siblings and I once turned the living room into a giant obstacle course.,0,75,14,0.013333333333333334,0.0
+Growing strawberries in the backyard taught me the joy of gardening.,0,68,11,0.014705882352941176,0.09090909090909094
+The neighborhood ice cream truck was the highlight of every summer evening.,0,75,12,0.013333333333333334,0.08333333333333337
+I once entered a pie-eating contest and couldnt stop laughing.,0,62,10,0.03225806451612903,0.0
+I once built a bookshelf entirely out of old crates and leftover nails.,0,71,13,0.014084507042253521,0.0
+Trying to cook a Thanksgiving turkey for the first time was a hilarious disaster.,0,81,14,0.012345679012345678,0.0714285714285714
+My friends and I spent an entire weekend camping under the stars.,0,65,12,0.015384615384615385,0.0
+I love waking up to the smell of fresh coffee on a lazy Sunday.,0,63,14,0.015873015873015872,0.0
+"One summer, I tried learning archery at a local day camp.",0,57,11,0.03508771929824561,0.0
+I once got completely drenched walking home without an umbrella.,0,64,10,0.015625,0.0
+My best friend and I used to bike to the river to skip stones.,0,62,14,0.016129032258064516,0.1428571428571429
+I accidentally dropped my phone in a puddle during a thunderstorm.,0,66,11,0.015151515151515152,0.09090909090909094
+Our family reunions always ended with a giant water balloon fight.,0,66,11,0.015151515151515152,0.0
+I remember painting my room bright blue and immediately regretting it.,0,70,11,0.014285714285714285,0.0
+The sound of cicadas always reminds me of long summer evenings.,0,63,11,0.015873015873015872,0.09090909090909094
+I once tried to build a soapbox car but gave up halfway through.,0,64,13,0.015625,0.0
+I spent an entire afternoon reading graphic novels at the library.,0,66,11,0.015151515151515152,0.0
+My dog once chased a squirrel straight into a neighbors pool.,0,61,11,0.01639344262295082,0.09090909090909094
+Helping my cousin fix up an old car was messy but rewarding.,0,60,12,0.016666666666666666,0.0
+"On a whim, I joined a local pottery class and loved it.",0,55,12,0.03636363636363636,0.08333333333333337
+The fireworks show at the county fair never gets old.,0,53,10,0.018867924528301886,0.09999999999999998
+I remember slipping on ice during my first winter up north.,0,59,11,0.01694915254237288,0.0
+Spending the afternoon at a botanical garden always lifts my spirits.,0,69,11,0.014492753623188406,0.0
+My friends and I once raced cardboard boats across a small lake.,0,64,12,0.015625,0.0
+Learning to build a fire without matches was a challenge.,0,57,10,0.017543859649122806,0.09999999999999998
+My childhood summers were filled with endless games of hide-and-seek.,0,69,10,0.043478260869565216,0.0
+I accidentally left the campfire burning overnight — lesson learned.,0,68,10,0.014705882352941176,0.0
+I once spent hours assembling a massive jigsaw puzzle during a storm.,0,69,12,0.014492753623188406,0.08333333333333337
+Building sandcastles at the beach was the highlight of every vacation.,0,70,11,0.014285714285714285,0.09090909090909094
+I remember helping my neighbor harvest apples from their backyard orchard.,0,74,11,0.013513513513513514,0.0
+My cousins and I would build mazes out of hay bales every fall.,0,63,13,0.015873015873015872,0.0
+I love picking wild blackberries along the hiking trails.,0,57,9,0.017543859649122806,0.0
+Snow days meant sledding down the biggest hill we could find.,0,61,11,0.01639344262295082,0.0
+"The first time I caught a fish, I was too scared to touch it.",0,61,14,0.03278688524590164,0.0714285714285714
+My friends and I turned the garage into a makeshift haunted house one Halloween.,0,80,14,0.0125,0.0
+"Every summer, we'd hold lemonade stand competitions in our neighborhood.",0,72,10,0.041666666666666664,0.0
+My first experience with horseback riding left me sore for days.,0,64,11,0.015625,0.0
+I once got lost in a massive corn maze and it took hours to find the way out.,0,77,18,0.012987012987012988,0.0
+My family loves hosting backyard movie nights with a giant sheet as a screen.,0,77,14,0.012987012987012988,0.0714285714285714
+I once tried to grow a bonsai tree but ended up overwatering it.,0,64,13,0.015625,0.0
+Learning to play chess from my grandfather was one of my favorite memories.,0,75,13,0.013333333333333334,0.07692307692307687
+"During a camping trip, we built a raft out of fallen logs.",0,58,12,0.034482758620689655,0.08333333333333337
+My childhood bedroom was covered wall to wall with posters of my favorite bands.,0,80,14,0.0125,0.1428571428571429
+The annual county fair always had the best funnel cakes.,0,56,10,0.017857142857142856,0.09999999999999998
+I remember saving up all summer just to buy my first skateboard.,0,64,12,0.015625,0.0
+One of the best nights of my life was stargazing in the desert.,0,63,13,0.015873015873015872,0.15384615384615385
+I once helped my neighbor build a chicken coop from scratch.,0,60,11,0.016666666666666666,0.0
+My first attempt at baking bread ended with a rock-hard loaf.,0,61,11,0.03278688524590164,0.0
+Rainy days were spent building giant Lego cities with my siblings.,0,66,11,0.015151515151515152,0.0
+I used to love catching frogs in the creek behind my house.,0,59,12,0.01694915254237288,0.0
+My mom taught me how to make jam from scratch every summer.,0,59,12,0.01694915254237288,0.0
+I once built a snow fort so big you could stand inside it.,0,58,13,0.017241379310344827,0.0
+My friends and I used to race sleds down the hill behind school.,0,64,13,0.015625,0.0
+I remember picking pumpkins every October at the same family farm.,0,66,11,0.015151515151515152,0.0
+"One summer, we tried to camp in the backyard during a thunderstorm.",0,67,12,0.029850746268656716,0.0
+My sister and I spent days building dollhouses out of cardboard boxes.,0,70,12,0.014285714285714285,0.0
+I once stayed up all night playing board games during a power outage.,0,69,13,0.014492753623188406,0.0
+Nothing beats the smell of fresh-cut grass on a summer morning.,0,63,11,0.031746031746031744,0.0
+I volunteered at a soup kitchen during my college winter break.,0,63,11,0.015873015873015872,0.0
+My cousins and I used to have epic Nerf battles across the yard.,0,64,13,0.015625,0.0
+"The first time I tried snowboarding, I fell about a hundred times.",0,66,12,0.030303030303030304,0.08333333333333337
+I remember selling homemade bracelets at local craft fairs.,0,59,9,0.01694915254237288,0.0
+Helping my neighbor tend her vegetable garden was one of my first jobs.,0,71,13,0.014084507042253521,0.07692307692307687
+My uncle used to take us fishing every spring break.,0,52,10,0.019230769230769232,0.0
+I remember saving coins in a jar to buy a new bike.,0,51,12,0.0196078431372549,0.08333333333333337
+"One summer, I painted a giant mural on the side of our shed.",0,60,13,0.03333333333333333,0.0
+My friends and I once built a raft using barrels and rope.,0,58,12,0.017241379310344827,0.08333333333333337
+The first real concert I attended was pure excitement.,0,54,9,0.018518518518518517,0.0
+I once spent a summer volunteering at the animal shelter.,0,57,10,0.017543859649122806,0.0
+My favorite Christmas memory is building gingerbread houses with my cousins.,0,76,11,0.013157894736842105,0.09090909090909094
+I used to ride my skateboard around the entire neighborhood after school.,0,73,12,0.0136986301369863,0.0
+I remember hand-making Valentine's Day cards for my whole class.,0,64,10,0.046875,0.0
+The small diner downtown makes the best blueberry pancakes.,0,59,9,0.01694915254237288,0.11111111111111116
+I once adopted a stray kitten who followed me home from school.,0,63,12,0.015873015873015872,0.0
+My dad taught me how to repair a flat bike tire.,0,48,11,0.020833333333333332,0.0
+I remember getting lost in the woods behind my house as a kid.,0,62,13,0.016129032258064516,0.0
+My friends and I used to make obstacle courses out of lawn chairs.,0,66,13,0.015151515151515152,0.0
+Learning to play the harmonica became my rainy day project one summer.,0,70,12,0.014285714285714285,0.0
+I loved visiting the science museum with all its hands-on exhibits.,0,67,11,0.029850746268656716,0.0
+My first pet was a turtle named Speedy.,0,39,8,0.02564102564102564,0.0
+I remember climbing trees every chance I got when I was little.,0,63,12,0.015873015873015872,0.16666666666666663
+My cousin taught me how to skip rocks across the pond.,0,54,11,0.018518518518518517,0.0
+"Every summer, our family visited a lakeside cabin for a week of fishing and swimming.",0,85,15,0.023529411764705882,0.06666666666666665
+Winning a giant teddy bear at the fair was the highlight of my year.,0,68,14,0.014705882352941176,0.0714285714285714
+My friends and I spent hours writing and acting out silly plays.,0,64,12,0.015625,0.08333333333333337
+I learned how to sew by helping my mom fix buttons and hems.,0,60,13,0.016666666666666666,0.0
+The old roller rink in town was the hangout spot every Friday night.,0,68,13,0.014705882352941176,0.07692307692307687
+I remember the excitement of getting my first library card.,0,59,10,0.01694915254237288,0.0
+My sister and I used to race up and down the hill on scooters.,0,62,14,0.016129032258064516,0.0714285714285714
+I spent one summer learning how to sail small boats.,0,52,10,0.019230769230769232,0.0
+My grandfather taught me how to whittle wood into little animals.,0,65,11,0.015384615384615385,0.0
+"One winter, we built a snowman taller than my dad.",0,50,10,0.04,0.0
+Exploring tide pools during low tide was my favorite beach activity.,0,68,11,0.014705882352941176,0.09090909090909094
+My best friend and I once stayed up all night talking about dreams and plans.,0,77,15,0.012987012987012988,0.06666666666666665
+I remember picking strawberries with my family until our fingers were stained red.,0,82,13,0.012195121951219513,0.0
+My uncle taught me how to make homemade ice cream in an old churn.,0,66,14,0.015151515151515152,0.0
+My favorite rainy day activity was building indoor obstacle courses.,0,68,10,0.014705882352941176,0.0
+Flying paper airplanes down the hallway became our unofficial sport.,0,68,10,0.014705882352941176,0.0
+I remember the thrill of winning my first school spelling bee.,0,62,11,0.016129032258064516,0.0
+My cousins and I built soapbox cars for a neighborhood race one summer.,0,71,13,0.014084507042253521,0.0
+"Every Thanksgiving, we held a massive backyard football game.",0,61,9,0.03278688524590164,0.0
+I helped paint a community mural downtown during an arts festival.,0,66,11,0.015151515151515152,0.0
+I once participated in a reading challenge where I finished 30 books in a summer.,0,81,15,0.012345679012345678,0.19999999999999996
+My friends and I created a treehouse club complete with secret passwords.,0,73,12,0.0136986301369863,0.0
+I remember learning how to make friendship bracelets at summer camp.,0,68,11,0.014705882352941176,0.0
+"My first camping trip included s'mores, ghost stories, and a lot of mosquito bites.",0,83,14,0.04819277108433735,0.0
+Exploration led to the discovery of new continents.,0,51,8,0.0196078431372549,0.0
+Cultural exchanges enriched medieval societies.,0,47,5,0.02127659574468085,0.0
+Epic poems captured the spirit of ancient heroes.,0,49,8,0.02040816326530612,0.0
+Consuming a diet rich in fruits improves longevity.,1,51,8,0.0196078431372549,0.0
+Medieval castles served as strategic defense points.,0,52,7,0.019230769230769232,0.0
+Ancient theaters staged mythological dramas.,0,44,5,0.022727272727272728,0.0
+Sleep hygiene plays a critical role in recovery.,1,48,8,0.020833333333333332,0.0
+Ancient astronomy shaped early calendars and myths.,0,51,7,0.0196078431372549,0.0
+Traditional folklore stories passed through generations.,0,56,6,0.017857142857142856,0.0
+Whole grains contribute to sustained energy levels.,1,51,7,0.0196078431372549,0.0
+Ancient civilizations built intricate irrigation systems.,0,57,6,0.017543859649122806,0.0
+Probiotic foods encourage gut health balance.,1,45,6,0.022222222222222223,0.0
+Archaeological digs uncover remnants of lost cities.,0,52,7,0.019230769230769232,0.0
+Staying hydrated is crucial for physical performance.,1,53,7,0.018867924528301886,0.0
+Regular walking helps maintain joint mobility.,1,46,6,0.021739130434782608,0.0
+Breathing exercises calm the nervous system.,1,44,6,0.022727272727272728,0.0
+Omega-3 intake supports brain development.,1,42,5,0.047619047619047616,0.0
+Daily meditation sharpens focus and reduces tension.,1,52,7,0.019230769230769232,0.0
+The Silk Road enabled exchange of ideas and goods.,0,50,9,0.02,0.0
+Practicing yoga enhances flexibility and mental clarity.,1,56,7,0.017857142857142856,0.0
+Hieroglyphics recorded the lives of pharaohs.,0,45,6,0.022222222222222223,0.0
+Outdoor activities increase vitamin D absorption.,1,49,6,0.02040816326530612,0.0
+Mindfulness practices reduce stress and anxiety.,1,48,6,0.020833333333333332,0.0
+Eating fiber-rich foods improves digestion.,1,43,5,0.046511627906976744,0.0
+Boosting cardiovascular health with regular exercise.,1,53,6,0.018867924528301886,0.0
+Philosophical schools flourished in classical Greece.,0,53,6,0.018867924528301886,0.0
+High-protein meals aid in muscle repair.,1,40,6,0.05,0.0
+Stone carvings reveal ancient societal rituals.,0,47,6,0.02127659574468085,0.0
+Vegetable consumption lowers risk of chronic diseases.,1,54,7,0.018518518518518517,0.0
+Invention of the printing press revolutionized learning.,0,56,7,0.017857142857142856,0.0
+Balanced diets promote strong immune systems.,1,45,6,0.022222222222222223,0.0
+Swimming builds endurance and promotes heart health.,1,52,7,0.019230769230769232,0.0
+Renaissance art reflected profound cultural shifts.,0,51,6,0.0196078431372549,0.0
+Limiting sugar intake benefits overall wellness.,1,48,6,0.020833333333333332,0.0
+Great explorers mapped unknown regions centuries ago.,0,53,7,0.018867924528301886,0.0
+Old manuscripts provide insights into early cultures.,0,53,7,0.018867924528301886,0.0
+Nomadic tribes adapted to harsh environments creatively.,0,56,7,0.017857142857142856,0.0
+Historic trade routes connected distant civilizations.,0,54,6,0.018518518518518517,0.0
+Lifting weights strengthens muscles and bones.,1,46,6,0.021739130434782608,0.0
+Historic revolutions reshaped societal structures.,0,50,5,0.02,0.0
+Volunteering at the animal shelter was a rewarding experience.,0,62,9,0.016129032258064516,0.0
+Smart homes improve energy efficiency and user convenience.,1,59,8,0.01694915254237288,0.0
+AI chatbots help businesses improve customer support experiences.,1,65,8,0.015384615384615385,0.0
+The local bakery is known for its delicious sourdough bread.,0,60,10,0.016666666666666666,0.0
+The lecture on quantum mechanics was hard to follow but fascinating.,0,68,11,0.014705882352941176,0.0
+Natural language processing powers modern voice assistants.,1,59,7,0.01694915254237288,0.0
+The weather forecast predicts rain and cooler temperatures this weekend.,0,72,10,0.013888888888888888,0.0
+"Using big data, scientists can predict disease outbreaks early.",1,63,9,0.031746031746031744,0.0
+Artificial intelligence is transforming the healthcare industry.,1,64,7,0.015625,0.0
+She prefers reading historical novels over science fiction.,0,59,8,0.01694915254237288,0.0
+Machine learning models can now detect cancer from X-rays.,1,58,9,0.034482758620689655,0.0
+We took a scenic drive through the mountains last fall.,0,55,10,0.01818181818181818,0.0
+She practices yoga every morning to stay focused and calm.,0,58,10,0.017241379310344827,0.0
+Renewable energy sources are crucial in fighting climate change.,1,64,9,0.015625,0.0
+Blockchain can provide secure and transparent financial transactions.,1,69,8,0.014492753623188406,0.0
+Self-driving cars are being tested in several urban cities.,1,59,9,0.03389830508474576,0.0
+Cloud computing allows companies to scale faster and cheaper.,1,61,9,0.01639344262295082,0.0
+The movie featured a compelling storyline and excellent performances.,0,69,9,0.014492753623188406,0.0
+He enjoys woodworking in his free time and often makes furniture.,0,65,11,0.015384615384615385,0.0
+The concert was canceled due to unexpected weather conditions.,0,62,9,0.016129032258064516,0.0
